@@ -35,7 +35,7 @@ Random collection of tools/projects that might or might not be updated over time
 
 ## Design
 
-- [✔] [Framer](https://framer.com): design/prototyping tool; **$15/mo**.
+- ✔ [Framer](https://framer.com): design/prototyping tool; **$15/mo**.
 
 <a name="misc"/>
 
