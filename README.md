@@ -5,7 +5,7 @@ Random collection of tools/projects that might or might not be updated over time
 # Table of contents
 
 - [Analytics/Monitoring](#analytics-monitoring)
-- [Conferences][#conferences]
+- [Conferences](#conferences)
 - [Cool repos](#cool-repos)
 - [Design](#design)
 - [Misc](#misc)
