@@ -1,6 +1,6 @@
 # random-tools
 
-Random collection of tools/projects that might or might not be updated over time, found mostly on ProductHunt.
+Random collection of tools/projects that might or might not be updated over time, found mostly on ProductHunt/StackShare.
 
 # Table of contents
 
@@ -16,9 +16,12 @@ Random collection of tools/projects that might or might not be updated over time
 <a name="analytics-monitoring"/>
 
 ## Analytics/Monitoring
-- [GeckoBoard](https://www.geckoboard.com/): nice tool for KPI dashboard.
-- [Grafana](https://grafana.com/): dashboard for realtime metrics.
-- [PagerDuty](https://www.pagerduty.com/applications/): get alerts when something goes wrong.
+- [Datadog](https://www.datadoghq.com): monitoring.
+- [GeckoBoard](https://www.geckoboard.com/): cool for KPI dashboard.
+- [Grafana](https://grafana.com/): realtime metrics dashboard.
+- [Instabug](https://instabug.com): bug reporting.
+- [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong.
+- [StatusCake](https://www.statuscake.com): alerts when down.
 
 <a name="conferences"/>
 
