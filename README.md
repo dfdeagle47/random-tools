@@ -1,6 +1,6 @@
 # random-tools
 
-Random collection of tools/projects that might or might not be updated over time, found mostly on ProductHunt/StackShare.
+Random collection of tools/projects that might or might not be updated over time, mostly found on ProductHunt/StackShare.
 
 # Table of contents
 
@@ -16,12 +16,12 @@ Random collection of tools/projects that might or might not be updated over time
 <a name="analytics-monitoring"/>
 
 ## Analytics/Monitoring
-- [Datadog](https://www.datadoghq.com): monitoring.
-- [GeckoBoard](https://www.geckoboard.com/): cool for KPI dashboard.
-- [Grafana](https://grafana.com/): realtime metrics dashboard.
-- [Instabug](https://instabug.com): bug reporting.
-- [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong.
-- [StatusCake](https://www.statuscake.com): alerts when down.
+- [Datadog](https://www.datadoghq.com): monitoring
+- [GeckoBoard](https://www.geckoboard.com/): cool for KPI dashboard
+- [Grafana](https://grafana.com/): realtime metrics dashboard
+- [Instabug](https://instabug.com): bug reporting
+- [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong
+- [StatusCake](https://www.statuscake.com): alerts when down
 
 <a name="conferences"/>
 
@@ -32,28 +32,28 @@ Random collection of tools/projects that might or might not be updated over time
 <a name="cool-repos"/>
 
 ## Cool repos
-- [Metamaps](https://github.com/metamaps/metamaps): cool maps.
-- [Tapiriik](https://github.com/cpfair/tapiriik): sync your runs from a lot of different platforms. Would be cool to add Nike+ running and make a node version.
+- [Metamaps](https://github.com/metamaps/metamaps): cool maps
+- [Tapiriik](https://github.com/cpfair/tapiriik): sync your runs from a lot of different platforms; would be cool to add Nike+ running and make a node version
 
 <a name="design"/>
 
 ## Design
 
-- ✔ [Framer](https://framer.com): design/prototyping tool; **$15/mo**.
+- ✔ [Framer](https://framer.com): design/prototyping tool; **$15/mo**
 
 <a name="misc"/>
 
 ## Misc
-- [MyMindNode](https://my.mindnode.com): mindmaps of all the things (e.g. [deep learning](https://my.mindnode.com/wqhKt6rDSZrJR5pVV2TpCv4xnHUsYJf3vZ9SbX7D#-60.8,-450.4,2)).
+- [MyMindNode](https://my.mindnode.com): mindmaps of all the things (e.g. [deep learning](https://my.mindnode.com/wqhKt6rDSZrJR5pVV2TpCv4xnHUsYJf3vZ9SbX7D#-60.8,-450.4,2))
 
 <a name="startup"/>
 
 ## Startup
 
-- [GrowthSupply](http://growthsupply.com): toolbox.
-- [StartupStash](http://startupstash.com/): toolbox.
-- [Startup DB](http://startupdb.requestsforstartups.com): database of common startup questions.
-- [StartupMixtape](https://www.startupmixtape.fm/): startup podcasts.
+- [GrowthSupply](http://growthsupply.com): toolbox
+- [StartupStash](http://startupstash.com/): toolbox
+- [Startup DB](http://startupdb.requestsforstartups.com): database of common startup questions
+- [StartupMixtape](https://www.startupmixtape.fm/): startup podcasts
 
 <a name="tutorials"/>
 
