@@ -27,6 +27,7 @@ Random collection of tools/projects that might or might not be updated over time
 
 ## Conferences
 - [React Europe 2017](https://www.react-europe.org)
+- [Twilio SIGNAL 2017](https://www.twilio.com/blog/2017/06/signal-2017-videos-online-now.html)
 
 <a name="cool-repos"/>
 
