@@ -7,6 +7,7 @@ Random collection of tools/projects that might or might not be updated over time
 - [Analytics/Monitoring](#analytics-monitoring)
 - [Conferences](#conferences)
 - [Cool repos](#cool-repos)
+- [Culture](#culture)
 - [Design](#design)
 - [Misc](#misc)
 - [Startup](#startup)
@@ -34,6 +35,13 @@ Random collection of tools/projects that might or might not be updated over time
 ## Cool repos
 - [Metamaps](https://github.com/metamaps/metamaps): cool maps
 - [Tapiriik](https://github.com/cpfair/tapiriik): sync your runs from a lot of different platforms; would be cool to add Nike+ running and make a node version
+
+<a name="culture"/>
+
+## Culture
+
+- [Culture Codes](http://culturecodes.co/)
+- [Spotify engineering culture part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 
 <a name="design"/>
 
