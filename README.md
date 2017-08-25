@@ -22,6 +22,7 @@ Random collection of tools/projects that might or might not be updated over time
 - [Grafana](https://grafana.com/): realtime metrics dashboard
 - [Instabug](https://instabug.com): bug reporting
 - [Nagios](https://www.nagios.org/): infrastructure monitoring
+- [Numbat Metrics](https://github.com/numbat-metrics)
 - [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong
 - [StatusCake](https://www.statuscake.com): alerts when down
 
