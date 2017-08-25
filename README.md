@@ -34,6 +34,7 @@ Random collection of tools/projects that might or might not be updated over time
 <a name="cool-repos"/>
 
 ## Cool repos
+- [Awesome serverless](https://github.com/anaibol/awesome-serverless)
 - [OpenGuide AWS](https://github.com/open-guides/og-aws)
 - [Metamaps](https://github.com/metamaps/metamaps): cool maps
 - [Tapiriik](https://github.com/cpfair/tapiriik): sync your runs from a lot of different platforms; would be cool to add Nike+ running and make a node version
