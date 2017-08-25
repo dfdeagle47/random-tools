@@ -21,6 +21,7 @@ Random collection of tools/projects that might or might not be updated over time
 - [GeckoBoard](https://www.geckoboard.com/): cool for KPI dashboard
 - [Grafana](https://grafana.com/): realtime metrics dashboard
 - [Instabug](https://instabug.com): bug reporting
+- [Nagios](https://www.nagios.org/): infrastructure monitoring
 - [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong
 - [StatusCake](https://www.statuscake.com): alerts when down
 
@@ -33,6 +34,7 @@ Random collection of tools/projects that might or might not be updated over time
 <a name="cool-repos"/>
 
 ## Cool repos
+- [OpenGuide AWS](https://github.com/open-guides/og-aws)
 - [Metamaps](https://github.com/metamaps/metamaps): cool maps
 - [Tapiriik](https://github.com/cpfair/tapiriik): sync your runs from a lot of different platforms; would be cool to add Nike+ running and make a node version
 
