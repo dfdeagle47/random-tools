@@ -54,6 +54,7 @@ Random collection of tools/projects that might or might not be updated over time
 - [DesignModo Market](http://market.designmodo.com/tools/): collection of tools.
 - ✔ [Framer](https://framer.com): design/prototyping tool; **$15/mo**
 - [HackDesign](https://hackdesign.org/toolkit): collection of tools.
+- [Webflow](https://university.webflow.com/): guides.
 
 <a name="misc"/>
 
