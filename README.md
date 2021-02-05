@@ -25,8 +25,13 @@ Random collection of tools/projects that might or might not be updated over time
 - [Numbat Metrics](https://github.com/numbat-metrics)
 - [PagerDuty](https://www.pagerduty.com/applications/): alerts when something goes wrong
 - [StatusCake](https://www.statuscake.com): alerts when down
+- [Rudderstack](https://rudderstack.com/): alternative to Segment
 
 <a name="conferences"/>
+
+## Misc
+
+- [fanout](https://fanout.io/): Realtime Data Everywhere
 
 ## Conferences
 - [React Europe 2017](https://www.react-europe.org)
